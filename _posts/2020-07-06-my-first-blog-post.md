@@ -1,6 +1,5 @@
-
 ---
-title: "YOUR-TITLE"
+title: "my-title"
 date: 2020-07-06
 ---
 
